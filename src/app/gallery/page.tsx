@@ -91,7 +91,7 @@ export default function GalleryPage() {
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center gradient-text">Media Gallery</h1>
         <p className="text-lg text-text-muted text-center max-w-3xl mx-auto mb-12">
-          Explore Wakeysha's performances, studio sessions, and creative process through these visual highlights.
+          Explore Wakeysha&apos;s performances, studio sessions, and creative process through these visual highlights.
         </p>
 
         {/* Filter tabs */}

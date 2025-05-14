@@ -48,7 +48,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-2xl md:text-3xl font-semibold mb-6">Connect with Wakeysha</h2>
               <p className="text-lg text-text-muted mb-8">
-                Whether you're interested in bookings, collaborations, or just want to say hello, I'd love to hear from you.
+                Whether you&apos;re interested in bookings, collaborations, or just want to say hello, I&apos;d love to hear from you.
               </p>
             </div>
             
@@ -124,7 +124,7 @@ export default function ContactPage() {
                   </svg>
                 </div>
                 <h3 className="text-2xl font-bold mb-2">Message Sent!</h3>
-                <p className="text-text-muted mb-6">Thank you for reaching out. I'll get back to you soon.</p>
+                <p className="text-text-muted mb-6">Thank you for reaching out. I&apos;ll get back to you soon.</p>
                 <button 
                   onClick={() => setSubmitted(false)} 
                   className="btn btn-primary"

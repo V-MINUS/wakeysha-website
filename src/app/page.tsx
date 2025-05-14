@@ -189,7 +189,7 @@ export default function Home() {
           <div className="flex flex-col items-center mb-20">
             <span className="px-4 py-1.5 rounded-full bg-secondary/10 text-secondary text-xs font-semibold tracking-wider mb-4">ELECTRONIC SOUNDSCAPES</span>
             <h2 className="text-display-1 font-extrabold text-center text-gradient glow-text mb-6">Latest Releases</h2>
-            <p className="text-body-lg text-center max-w-xl text-text-light/80">Experience the atmospheric journeys and rhythmic adventures of Wakeysha's most recent musical creations.</p>
+            <p className="text-body-lg text-center max-w-xl text-text-light/80">Experience the atmospheric journeys and rhythmic adventures of Wakeysha&apos;s most recent musical creations.</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -253,7 +253,7 @@ export default function Home() {
               
               <div className="px-2">
                 <h3 className="text-heading-2 font-bold mb-2">Fabulous</h3>
-                <p className="text-text-light/70 mb-4">Wakeysha's signature solo track featuring hypnotic rhythms and ethereal melodies.</p>
+                <p className="text-text-light/70 mb-4">Wakeysha&apos;s signature solo track featuring hypnotic rhythms and ethereal melodies.</p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm font-medium text-secondary">2023 • Single</span>
                   <a href="https://open.spotify.com/track/5fJKruHJLHCeT5W8gjiZQw" target="_blank" rel="noopener noreferrer" className="btn-text group/btn">
@@ -344,7 +344,7 @@ export default function Home() {
                 {/* Content */}
                 <h2 className="text-display-2 font-extrabold text-gradient glow-text mb-6">Join the Journey</h2>
                 <p className="text-body-lg text-text-light/80 max-w-2xl mb-10">
-                  Connect with WAKEYSHA to stay updated on new releases, upcoming performances, and exclusive behind-the-scenes content. Let's explore the sonic universe together.
+                  Connect with WAKEYSHA to stay updated on new releases, upcoming performances, and exclusive behind-the-scenes content. Let&apos;s explore the sonic universe together.
                 </p>
                 
                 {/* CTAs */}
